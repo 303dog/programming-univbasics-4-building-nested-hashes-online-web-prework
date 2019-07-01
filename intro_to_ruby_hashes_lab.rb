@@ -7,7 +7,8 @@ def monopoly
 :reading_railroad => {"mortgage_value" => "$100"},
 :pennsylvania_railroad => {"mortgage_value" => "$200"},
 :b_o_railroad =>{"mortgage_value" => "$200"},
-:shortline => {"mortgage_value" => "$800"}}}}
+:shortline => {"mortgage_value" => "$800"}
+}
 end
 
 def monopoly_with_second_tier
